@@ -2,6 +2,7 @@ A = randn(1000,4);
 
 %plot(x(:,1),x(:,2), '.r');
 
+
 Ma = mean(A);
 Cx = cov(A);
 
