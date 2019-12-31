@@ -5,8 +5,6 @@ A = randn(1000,2);
 Ma = mean(A);
 Cx = cov(A);
 
-
-
 n = 4;
 k = -1;
 
