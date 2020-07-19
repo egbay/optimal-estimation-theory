@@ -1,6 +1,8 @@
-# optimal-kestirim
+# optimal estimation theory lecture project
 
-Optimal Kestirim Teorisi Dersi
-Beşinci Ödev
+Optimal Estimation Theory Lecture
+Fifth Project
 
 Unscented Kalman Filter Application
+
+
